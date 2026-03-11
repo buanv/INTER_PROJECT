@@ -37,6 +37,8 @@ namespace final_project
                 if (count == 1)
                 {
                     MessageBox.Show("Login Successful!");
+                    new frmDashboard().Show();
+                    this.Hide();
                 }
                 else
                 {

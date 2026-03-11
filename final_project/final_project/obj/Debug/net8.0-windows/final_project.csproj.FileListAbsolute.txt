@@ -29,3 +29,5 @@ C:\Users\CL2~PC24\Documents\vvbuan\final_project\final_project\obj\Debug\net8.0-
 C:\Users\CL2~PC24\Documents\vvbuan\final_project\final_project\obj\Debug\net8.0-windows\final_project.pdb
 C:\Users\CL2~PC24\Documents\vvbuan\final_project\final_project\obj\Debug\net8.0-windows\final_project.genruntimeconfig.cache
 C:\Users\CL2~PC24\Documents\vvbuan\final_project\final_project\obj\Debug\net8.0-windows\ref\final_project.dll
+C:\Users\CL2~PC24\Documents\vvbuan\final_project\final_project\obj\Debug\net8.0-windows\final_project.frmDashboard.resources
+C:\Users\CL2~PC24\Documents\vvbuan\final_project\final_project\obj\Debug\net8.0-windows\final_project.frmRegistration.resources
