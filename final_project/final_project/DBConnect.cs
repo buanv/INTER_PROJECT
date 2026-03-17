@@ -10,7 +10,7 @@ namespace final_project
     public class DBConnect
     {
         private MySqlConnection connection = new MySqlConnection(
-            "server=localhost;user=root;database=myproject_act;port=3306;password=;"
+            "server=localhost;user=root;database=finals_buan;port=3306;password=;"
         );
 
         public MySqlConnection Connection => connection;

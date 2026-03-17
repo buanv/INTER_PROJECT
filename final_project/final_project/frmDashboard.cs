@@ -22,5 +22,11 @@ namespace final_project
             new frmRegistration().Show();
             this.Hide();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+           new frmMaster().Show();
+           this.Hide();    
+        }
     }
 }

@@ -24,7 +24,7 @@ namespace final_project
             try
             {
                 db.Open();
-                string query = "SELECT COUNT(*) FROM student_account WHERE username=@username AND password=@password";
+                string query = "SELECT COUNT(*) FROM list WHERE username=@username AND password=@password";
 
                 MySql.Data.MySqlClient.MySqlCommand cmd =
                     new MySql.Data.MySqlClient.MySqlCommand(query, db.Connection);
@@ -50,9 +50,10 @@ namespace final_project
                 MessageBox.Show(ex.Message);
             }
             finally
-            { 
-             db.Close();
+            {
+                db.Close();
             }
         }
+
     }
 }

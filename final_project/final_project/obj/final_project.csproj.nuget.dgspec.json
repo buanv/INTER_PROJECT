@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CL2~PC24\\Documents\\vvbuan\\final_project\\final_project\\final_project.csproj": {}
+    "C:\\Users\\InformationTechnolog\\Downloads\\INTER_PROJECT-main\\INTER_PROJECT-main\\final_project\\final_project\\final_project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CL2~PC24\\Documents\\vvbuan\\final_project\\final_project\\final_project.csproj": {
+    "C:\\Users\\InformationTechnolog\\Downloads\\INTER_PROJECT-main\\INTER_PROJECT-main\\final_project\\final_project\\final_project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CL2~PC24\\Documents\\vvbuan\\final_project\\final_project\\final_project.csproj",
+        "projectUniqueName": "C:\\Users\\InformationTechnolog\\Downloads\\INTER_PROJECT-main\\INTER_PROJECT-main\\final_project\\final_project\\final_project.csproj",
         "projectName": "final_project",
-        "projectPath": "C:\\Users\\CL2~PC24\\Documents\\vvbuan\\final_project\\final_project\\final_project.csproj",
-        "packagesPath": "C:\\Users\\CL2~PC24\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CL2~PC24\\Documents\\vvbuan\\final_project\\final_project\\obj\\",
+        "projectPath": "C:\\Users\\InformationTechnolog\\Downloads\\INTER_PROJECT-main\\INTER_PROJECT-main\\final_project\\final_project\\final_project.csproj",
+        "packagesPath": "C:\\Users\\InformationTechnolog\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\InformationTechnolog\\Downloads\\INTER_PROJECT-main\\INTER_PROJECT-main\\final_project\\final_project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\CL2~PC24\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\InformationTechnolog\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -75,7 +75,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
